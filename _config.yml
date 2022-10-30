@@ -1,0 +1,24 @@
+# Setup
+title:               Blog
+tagline:             'nohting special'
+description:         'Mostly I write for myself to put my thoughts in order. If anyone finds it useful even better!'
+url:                 ''
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+github:
+  repo: https://github.com/cernat-catalin
+
+# About/contact
+author:
+  name:              Catalin
+  url:               ''
+  email:             cernat.catallin@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
