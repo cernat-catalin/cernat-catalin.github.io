@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+html {
+	-webkit-text-size-adjust: none;
+	text-size-adjust: none;
+	-moz-text-size-adjust: none;
+}
+
+body {
+	margin-left: 3em;
+	margin-right: 3em;
+	max-width: 900px;
+}
+
+header {
+	font-size: 1.2em;
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+}
+
+nav {
+	text-align: right;
+}
+
+pre {
+	margin-left: 2em;
+	margin-right: 2em;
+	overflow-x: auto;
+}
